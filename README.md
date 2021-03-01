@@ -6,7 +6,7 @@
 Finalizing a dashboard for a medical study. This project focuses on the visualization of the bacterial data for each volunteer in a specific study. Our volunteers will be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, our volunteers will be able to identify whether that species is found in their navel.
 
 ## Resources  
-- **Data Source:** [index.html](/index.html), [samples.json](/samples.json), [plots.js](/plots.js) 
+- **Data Source:** [index.html](/index.html), [samples.json](/samples.json), [style.css](/style.css), [charts.js](/charts.js) 
 - **Software:** VS Code, Web browser, Command-line interface, GitHub
 
 
