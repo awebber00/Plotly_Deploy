@@ -24,7 +24,7 @@ Finalizing a dashboard for a medical study. This project focuses on the visualiz
 - How to use D3.json() to fetch external data.
 
 ## Challenge Objectives  
-The goals of this challenge are for us to:
+The goals of this challenge were to:
 - Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
 - Create a bubble chart to visualize the relative frequency of all the bacterial species found in a volunteer’s navel.
 - Customize the Dashboard. 
