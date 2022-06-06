@@ -42,3 +42,6 @@ The goals of this challenge were to:
 
 ## Live Demo
 View a [Live Demo](https://awebber00.github.io/Plotly_Deploy/) of Plotly Deploy
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
